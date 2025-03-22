@@ -1,0 +1,10 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+    background-color: azure;
+}
+main {
+    max-width: 900px;
+    margin: auto;
+    box-shadow: bisque;
+}
